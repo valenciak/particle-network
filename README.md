@@ -1,5 +1,5 @@
 # Particle Network
-Particle network using Processing.
+Particle network using Processing and Java.
 
 Open files using the Processing IDE.
 
